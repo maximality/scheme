@@ -1,0 +1,188 @@
+115a:3:{s:17:"last_sending_time";i:1401547282;s:16:"last_writing_pos";i:741;s:19:"last_clear_log_time";i:1401547282;}
+[31-05-2014 18:41:36] SYSTEM FAILURE - ERROR 1: Call to undefined function flose() in H:\Projects\hosts\data\bigProjects\administrating\ajax\reciever.php on line 20
+[31-05-2014 18:41:39] SYSTEM FAILURE - ERROR 1: Call to undefined function flose() in H:\Projects\hosts\data\bigProjects\administrating\ajax\reciever.php on line 20
+[31-05-2014 18:41:40] SYSTEM FAILURE - ERROR 1: Call to undefined function flose() in H:\Projects\hosts\data\bigProjects\administrating\ajax\reciever.php on line 20
+[31-05-2014 18:41:51] USER FAILURE - ERROR 0: No HostName was assigned in H:\Projects\hosts\data\bigProjects\administrating\ajax\reciever.php on line 26
+[31-05-2014 18:42:43] USER FAILURE - ERROR 0: No HostName was assigned in H:\Projects\hosts\data\bigProjects\administrating\ajax\reciever.php on line 26
+[31-05-2014 18:42:43] USER FAILURE - ERROR 0: No HostName was assigned in H:\Projects\hosts\data\bigProjects\administrating\ajax\reciever.php on line 26
+[31-05-2014 18:42:44] USER FAILURE - ERROR 0: No HostName was assigned in H:\Projects\hosts\data\bigProjects\administrating\ajax\reciever.php on line 26
+[31-05-2014 18:43:32] USER FAILURE - ERROR 0: No HostName was assigned in H:\Projects\hosts\data\bigProjects\administrating\ajax\reciever.php on line 20
+[11-03-2015 04:42:51] USER FAILURE - ERROR 1: Not found file [H:\Projects\hosts\data\littleProjects\building_scheme/modules/errdisplay/Errdisplay.php] for class [Errdisplay] in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\index.tpl.php on line 126
+[11-03-2015 04:47:31] SYSTEM FAILURE - WARNING 2: require_once(H:\Projects\hosts\data\littleProjects\building_scheme/modules/sites/BackendSites.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in H:\Projects\hosts\data\littleProjects\building_scheme\classes\AdminView.php on line 70
+[11-03-2015 04:47:31] SYSTEM FAILURE - ERROR 64: require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'H:\Projects\hosts\data\littleProjects\building_scheme/modules/sites/BackendSites.php' (include_path='.;/usr/local/php5/PEAR') in H:\Projects\hosts\data\littleProjects\building_scheme\classes\AdminView.php on line 70
+[11-03-2015 04:47:38] SYSTEM FAILURE - WARNING 2: require_once(H:\Projects\hosts\data\littleProjects\building_scheme/modules/sites/BackendSites.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in H:\Projects\hosts\data\littleProjects\building_scheme\classes\AdminView.php on line 70
+[11-03-2015 04:47:38] SYSTEM FAILURE - ERROR 64: require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'H:\Projects\hosts\data\littleProjects\building_scheme/modules/sites/BackendSites.php' (include_path='.;/usr/local/php5/PEAR') in H:\Projects\hosts\data\littleProjects\building_scheme\classes\AdminView.php on line 70
+[11-03-2015 04:51:03] SYSTEM FAILURE - WARNING 2: require_once(H:\Projects\hosts\data\littleProjects\building_scheme/modules/sites/BackendSites.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in H:\Projects\hosts\data\littleProjects\building_scheme\classes\AdminView.php on line 70
+[11-03-2015 04:51:03] SYSTEM FAILURE - ERROR 64: require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'H:\Projects\hosts\data\littleProjects\building_scheme/modules/sites/BackendSites.php' (include_path='.;/usr/local/php5/PEAR') in H:\Projects\hosts\data\littleProjects\building_scheme\classes\AdminView.php on line 70
+[11-03-2015 04:52:20] SYSTEM FAILURE - WARNING 2: require_once(H:\Projects\hosts\data\littleProjects\building_scheme/modules/sites/BackendSites.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in H:\Projects\hosts\data\littleProjects\building_scheme\classes\AdminView.php on line 70
+[11-03-2015 04:52:20] SYSTEM FAILURE - ERROR 64: require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'H:\Projects\hosts\data\littleProjects\building_scheme/modules/sites/BackendSites.php' (include_path='.;/usr/local/php5/PEAR') in H:\Projects\hosts\data\littleProjects\building_scheme\classes\AdminView.php on line 70
+[11-03-2015 04:52:28] SYSTEM FAILURE - WARNING 2: require_once(H:\Projects\hosts\data\littleProjects\building_scheme/modules/sites/BackendSites.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in H:\Projects\hosts\data\littleProjects\building_scheme\classes\AdminView.php on line 70
+[11-03-2015 04:52:28] SYSTEM FAILURE - ERROR 64: require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'H:\Projects\hosts\data\littleProjects\building_scheme/modules/sites/BackendSites.php' (include_path='.;/usr/local/php5/PEAR') in H:\Projects\hosts\data\littleProjects\building_scheme\classes\AdminView.php on line 70
+[11-03-2015 04:52:42] SYSTEM FAILURE - WARNING 2: require_once(H:\Projects\hosts\data\littleProjects\building_scheme/modules/sites/BackendSites.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in H:\Projects\hosts\data\littleProjects\building_scheme\classes\AdminView.php on line 70
+[11-03-2015 04:52:42] SYSTEM FAILURE - ERROR 64: require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'H:\Projects\hosts\data\littleProjects\building_scheme/modules/sites/BackendSites.php' (include_path='.;/usr/local/php5/PEAR') in H:\Projects\hosts\data\littleProjects\building_scheme\classes\AdminView.php on line 70
+[11-03-2015 05:02:40] SYSTEM FAILURE - NOTICE 8: Undefined index: floors in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings.tpl.php on line 68
+[11-03-2015 05:02:40] SYSTEM FAILURE - NOTICE 8: Undefined index: points in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings.tpl.php on line 71
+[11-03-2015 05:02:40] SYSTEM FAILURE - NOTICE 8: Undefined index: floors in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings.tpl.php on line 68
+[11-03-2015 05:02:40] SYSTEM FAILURE - NOTICE 8: Undefined index: points in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings.tpl.php on line 71
+[11-03-2015 05:02:40] SYSTEM FAILURE - NOTICE 8: Undefined index: floors in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings.tpl.php on line 68
+[11-03-2015 05:02:40] SYSTEM FAILURE - NOTICE 8: Undefined index: points in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings.tpl.php on line 71
+[11-03-2015 05:02:40] SYSTEM FAILURE - NOTICE 8: Undefined index: floors in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings.tpl.php on line 68
+[11-03-2015 05:02:40] SYSTEM FAILURE - NOTICE 8: Undefined index: points in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings.tpl.php on line 71
+[11-03-2015 05:02:40] SYSTEM FAILURE - NOTICE 8: Undefined index: floors in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings.tpl.php on line 68
+[11-03-2015 05:02:40] SYSTEM FAILURE - NOTICE 8: Undefined index: points in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings.tpl.php on line 71
+[11-03-2015 05:07:04] SYSTEM FAILURE - NOTICE 8: Undefined index: hosts in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings.tpl.php on line 57
+[11-03-2015 05:07:39] SYSTEM FAILURE - NOTICE 8: Undefined index: hosts in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings.tpl.php on line 57
+[13-03-2015 21:55:58] SYSTEM FAILURE - NOTICE 8: Undefined variable: title in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 112
+[13-03-2015 21:56:49] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 150
+[13-03-2015 21:56:49] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 156
+[13-03-2015 21:56:49] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 156
+[13-03-2015 22:07:43] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:07:43] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:08:06] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:08:06] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:09:41] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:09:41] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:09:41] SYSTEM FAILURE - NOTICE 8: Undefined offset: 3 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:10:57] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:10:57] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:10:57] SYSTEM FAILURE - NOTICE 8: Undefined offset: 3 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:11:05] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:11:05] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:11:05] SYSTEM FAILURE - NOTICE 8: Undefined offset: 3 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:11:18] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:11:18] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:11:18] SYSTEM FAILURE - NOTICE 8: Undefined offset: 3 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:11:25] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:11:25] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:11:25] SYSTEM FAILURE - NOTICE 8: Undefined offset: 3 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:12:42] SYSTEM FAILURE - NOTICE 8: Undefined index: description in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 156
+[13-03-2015 22:16:33] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 161
+[13-03-2015 22:16:33] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 161
+[13-03-2015 22:16:33] SYSTEM FAILURE - NOTICE 8: Undefined offset: 3 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 161
+[13-03-2015 22:16:45] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 162
+[13-03-2015 22:16:45] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 162
+[13-03-2015 22:16:45] SYSTEM FAILURE - NOTICE 8: Undefined offset: 3 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 162
+[13-03-2015 22:16:49] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 162
+[13-03-2015 22:16:49] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 162
+[13-03-2015 22:16:49] SYSTEM FAILURE - NOTICE 8: Undefined offset: 3 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 162
+[13-03-2015 22:19:45] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:19:45] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:19:45] SYSTEM FAILURE - NOTICE 8: Undefined offset: 3 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 157
+[13-03-2015 22:23:25] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 156
+[13-03-2015 22:23:25] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 156
+[13-03-2015 22:23:25] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 156
+[13-03-2015 22:29:00] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 21
+[13-03-2015 22:29:00] SYSTEM FAILURE - NOTICE 8: Undefined variable: floor_id in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 26
+[13-03-2015 22:29:00] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 61
+[13-03-2015 22:29:18] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 21
+[13-03-2015 22:29:18] SYSTEM FAILURE - NOTICE 8: Undefined variable: floor_id in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 26
+[13-03-2015 22:29:18] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 61
+[13-03-2015 22:29:38] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 21
+[13-03-2015 22:29:38] SYSTEM FAILURE - NOTICE 8: Undefined variable: floor_id in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 26
+[13-03-2015 22:29:38] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 61
+[13-03-2015 22:30:53] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 21
+[13-03-2015 22:30:53] SYSTEM FAILURE - NOTICE 8: Undefined variable: floor_id in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 26
+[13-03-2015 22:30:53] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 61
+[13-03-2015 22:32:44] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 21
+[13-03-2015 22:32:44] SYSTEM FAILURE - NOTICE 8: Undefined variable: floor_id in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 26
+[13-03-2015 22:32:44] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 61
+[13-03-2015 22:33:21] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 21
+[13-03-2015 22:33:21] SYSTEM FAILURE - NOTICE 8: Undefined variable: floor_id in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 26
+[13-03-2015 22:33:21] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 61
+[13-03-2015 22:34:41] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 22
+[13-03-2015 22:34:41] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 62
+[13-03-2015 22:36:25] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 22
+[13-03-2015 22:36:25] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 62
+[13-03-2015 22:36:27] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 22
+[13-03-2015 22:36:27] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 62
+[13-03-2015 22:36:39] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 22
+[13-03-2015 22:36:39] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 62
+[13-03-2015 22:36:40] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 22
+[13-03-2015 22:36:40] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 62
+[13-03-2015 22:36:47] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 22
+[13-03-2015 22:36:47] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 62
+[13-03-2015 22:36:48] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 22
+[13-03-2015 22:36:48] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 62
+[13-03-2015 22:37:14] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 22
+[13-03-2015 22:37:14] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 62
+[13-03-2015 22:37:20] SYSTEM FAILURE - WARNING 2: Invalid argument supplied for foreach() in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 22
+[13-03-2015 22:37:20] SYSTEM FAILURE - ERROR 1: [] operator not supported for strings in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 62
+[13-03-2015 22:43:56] USER FAILURE - ERROR 1: вызван несуществующий метод settings in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 124
+[13-03-2015 22:44:55] SYSTEM FAILURE - NOTICE 8: Undefined variable: content_photos_dir in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 169
+[13-03-2015 22:49:04] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 107
+[13-03-2015 22:49:04] SYSTEM FAILURE - NOTICE 8: Undefined offset: 3 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 107
+[13-03-2015 22:49:04] SYSTEM FAILURE - NOTICE 8: Undefined offset: 4 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 107
+[13-03-2015 22:49:14] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 107
+[13-03-2015 22:49:14] SYSTEM FAILURE - NOTICE 8: Undefined offset: 3 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 107
+[13-03-2015 22:49:14] SYSTEM FAILURE - NOTICE 8: Undefined offset: 4 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 107
+[13-03-2015 22:52:44] USER FAILURE - ERROR 1: вызван несуществующий метод settings in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 172
+[13-03-2015 22:54:26] SYSTEM FAILURE - NOTICE 8: Undefined index: super in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\Buildings.php on line 197
+[13-03-2015 22:56:08] USER FAILURE - ERROR 1: вызван несуществующий метод delete_floor_scheme in H:\Projects\hosts\data\littleProjects\building_scheme\admin\ajax_delete_image.php on line 23
+[13-03-2015 23:00:36] SYSTEM FAILURE - NOTICE 8: Undefined index: palennum_tour_img in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 121
+[13-03-2015 23:00:36] SYSTEM FAILURE - NOTICE 8: Undefined index: palennum_tour_img in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 121
+[13-03-2015 23:00:36] SYSTEM FAILURE - NOTICE 8: Undefined index: palennum_tour_img in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 121
+[13-03-2015 23:00:36] SYSTEM FAILURE - NOTICE 8: Undefined index: palennum_tour_img in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 121
+[13-03-2015 23:00:36] SYSTEM FAILURE - NOTICE 8: Undefined index: palennum_tour_img in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 121
+[13-03-2015 23:10:32] USER FAILURE - ERROR 1: вызван несуществующий метод delete_floor_scheme in H:\Projects\hosts\data\littleProjects\building_scheme\admin\ajax_delete_image.php on line 23
+[13-03-2015 23:10:35] USER FAILURE - ERROR 1: вызван несуществующий метод delete_floor_scheme in H:\Projects\hosts\data\littleProjects\building_scheme\admin\ajax_delete_image.php on line 23
+[13-03-2015 23:38:52] SYSTEM FAILURE - WARNING 2: PDO::quote() expects parameter 1 to be string, array given in H:\Projects\hosts\data\littleProjects\building_scheme\classes\external\DbSimple\Mypdo.php on line 59
+[13-03-2015 23:38:52] SYSTEM FAILURE - WARNING 2: PDO::quote() expects parameter 1 to be string, array given in H:\Projects\hosts\data\littleProjects\building_scheme\classes\external\DbSimple\Mypdo.php on line 59
+[13-03-2015 23:38:52] SYSTEM FAILURE - WARNING 2: PDO::quote() expects parameter 1 to be string, array given in H:\Projects\hosts\data\littleProjects\building_scheme\classes\external\DbSimple\Mypdo.php on line 59
+[13-03-2015 23:38:52] SYSTEM FAILURE - WARNING 2: PDO::quote() expects parameter 1 to be string, array given in H:\Projects\hosts\data\littleProjects\building_scheme\classes\external\DbSimple\Mypdo.php on line 59
+[13-03-2015 23:41:44] SYSTEM FAILURE - WARNING 2: PDO::quote() expects parameter 1 to be string, array given in H:\Projects\hosts\data\littleProjects\building_scheme\classes\external\DbSimple\Mypdo.php on line 59
+[13-03-2015 23:41:44] SYSTEM FAILURE - WARNING 2: PDO::quote() expects parameter 1 to be string, array given in H:\Projects\hosts\data\littleProjects\building_scheme\classes\external\DbSimple\Mypdo.php on line 59
+[13-03-2015 23:41:44] SYSTEM FAILURE - WARNING 2: PDO::quote() expects parameter 1 to be string, array given in H:\Projects\hosts\data\littleProjects\building_scheme\classes\external\DbSimple\Mypdo.php on line 59
+[13-03-2015 23:41:44] SYSTEM FAILURE - WARNING 2: PDO::quote() expects parameter 1 to be string, array given in H:\Projects\hosts\data\littleProjects\building_scheme\classes\external\DbSimple\Mypdo.php on line 59
+[13-03-2015 23:41:55] SYSTEM FAILURE - WARNING 2: PDO::quote() expects parameter 1 to be string, array given in H:\Projects\hosts\data\littleProjects\building_scheme\classes\external\DbSimple\Mypdo.php on line 59
+[13-03-2015 23:41:55] SYSTEM FAILURE - WARNING 2: PDO::quote() expects parameter 1 to be string, array given in H:\Projects\hosts\data\littleProjects\building_scheme\classes\external\DbSimple\Mypdo.php on line 59
+[13-03-2015 23:41:55] SYSTEM FAILURE - WARNING 2: PDO::quote() expects parameter 1 to be string, array given in H:\Projects\hosts\data\littleProjects\building_scheme\classes\external\DbSimple\Mypdo.php on line 59
+[13-03-2015 23:41:55] SYSTEM FAILURE - WARNING 2: PDO::quote() expects parameter 1 to be string, array given in H:\Projects\hosts\data\littleProjects\building_scheme\classes\external\DbSimple\Mypdo.php on line 59
+[13-03-2015 23:42:46] USER FAILURE - ERROR 1: вызван несуществующий метод delete_floor_scheme in H:\Projects\hosts\data\littleProjects\building_scheme\admin\ajax_delete_image.php on line 24
+[14-03-2015 02:06:31] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:06:31] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:06:31] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:06:31] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:07:23] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:07:23] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:07:23] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:07:54] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:07:54] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:07:54] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:09:01] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:09:01] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:09:01] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:09:17] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:09:17] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:09:17] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:10:36] SYSTEM FAILURE - NOTICE 8: Undefined offset: 3 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:10:36] SYSTEM FAILURE - NOTICE 8: Undefined offset: 3 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 02:10:36] SYSTEM FAILURE - NOTICE 8: Undefined offset: 4 in H:\Projects\hosts\data\littleProjects\building_scheme\modules\buildings\BackendBuildings.php on line 153
+[14-03-2015 03:21:37] SYSTEM FAILURE - ERROR 1: Cannot use object of type Template as array in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 174
+[14-03-2015 03:22:15] SYSTEM FAILURE - ERROR 1: Cannot use object of type Template as array in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 174
+[14-03-2015 03:22:23] SYSTEM FAILURE - ERROR 1: Cannot use object of type Template as array in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 174
+[14-03-2015 03:22:31] SYSTEM FAILURE - ERROR 1: Cannot use object of type Template as array in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 174
+[14-03-2015 03:22:36] SYSTEM FAILURE - ERROR 1: Cannot use object of type Template as array in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 174
+[14-03-2015 03:22:57] SYSTEM FAILURE - ERROR 1: Cannot use object of type Template as array in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 174
+[14-03-2015 03:24:06] SYSTEM FAILURE - NOTICE 8: Undefined variable: size in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 174
+[14-03-2015 03:24:06] SYSTEM FAILURE - NOTICE 8: Undefined variable: size in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 175
+[14-03-2015 03:27:40] SYSTEM FAILURE - ERROR 4: syntax error, unexpected $end in H:\Projects\hosts\data\littleProjects\building_scheme\templates\admin\buildings_add.tpl.php on line 226
+[14-03-2015 08:56:39] SYSTEM FAILURE - NOTICE 8: Undefined variable: panorama_descr in H:\Projects\hosts\data\littleProjects\building_scheme\templates\main.tpl.php on line 69
+[28-04-2015 08:57:20] SYSTEM FAILURE - NOTICE 8: Undefined offset: 0 in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/modules/buildings/BackendBuildings.php on line 156
+[28-04-2015 08:57:20] SYSTEM FAILURE - NOTICE 8: Undefined offset: 1 in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/modules/buildings/BackendBuildings.php on line 156
+[28-04-2015 08:57:20] SYSTEM FAILURE - NOTICE 8: Undefined offset: 2 in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/modules/buildings/BackendBuildings.php on line 156
+[28-04-2015 08:57:20] SYSTEM FAILURE - NOTICE 8: Undefined offset: 0 in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/modules/buildings/BackendBuildings.php on line 156
+[28-04-2015 08:57:20] SYSTEM FAILURE - NOTICE 8: Undefined offset: 4 in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/modules/buildings/BackendBuildings.php on line 156
+[28-04-2015 09:08:01] SYSTEM FAILURE - NOTICE 8: Undefined index: show_as_img in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/templates/main.tpl.php on line 30
+[28-04-2015 09:08:23] SYSTEM FAILURE - NOTICE 8: Undefined index: show_as_img in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/templates/main.tpl.php on line 30
+[28-04-2015 10:22:38] SYSTEM FAILURE - NOTICE 8: Undefined variable: panorama_show_as_img in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/templates/main.tpl.php on line 40
+[28-04-2015 10:22:44] SYSTEM FAILURE - NOTICE 8: Undefined variable: panorama_show_as_img in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/templates/main.tpl.php on line 40
+[28-04-2015 10:22:49] SYSTEM FAILURE - NOTICE 8: Undefined variable: panorama_show_as_img in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/templates/main.tpl.php on line 40
+[28-04-2015 10:30:28] SYSTEM FAILURE - NOTICE 8: Undefined variable: panorama_show_as_img in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/templates/main.tpl.php on line 40
+[28-04-2015 10:44:58] SYSTEM FAILURE - NOTICE 8: Undefined variable: panorama_show_as_img in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/templates/main.tpl.php on line 40
+[28-04-2015 10:46:56] SYSTEM FAILURE - NOTICE 8: Undefined variable: panorama_show_as_img in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/templates/main.tpl.php on line 40
+[28-04-2015 10:54:03] SYSTEM FAILURE - NOTICE 8: Undefined variable: panorama_show_as_img in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/templates/main.tpl.php on line 40
+[28-04-2015 10:55:00] SYSTEM FAILURE - NOTICE 8: Undefined variable: panorama_show_as_img in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/templates/main.tpl.php on line 40
+[28-04-2015 15:44:12] SYSTEM FAILURE - NOTICE 8: Undefined variable: panorama_show_as_img in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/templates/main.tpl.php on line 40
+[28-04-2015 23:51:46] SYSTEM FAILURE - NOTICE 8: Undefined variable: panorama_show_as_img in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/templates/main.tpl.php on line 40
+[04-05-2015 20:59:14] SYSTEM FAILURE - NOTICE 8: Undefined variable: panorama_show_as_img in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/templates/main.tpl.php on line 40
+[06-05-2015 13:07:06] SYSTEM FAILURE - NOTICE 8: Undefined variable: panorama_show_as_img in /var/www/vhosts/u0067206.plsk.regruhosting.ru/httpdocs/volpi-mobile.ru/templates/main.tpl.php on line 40
